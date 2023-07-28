@@ -7,3 +7,4 @@
 ## Git log e Git restore
 
 Aprendendo a enviar para o remoto.
+Comando git pull
